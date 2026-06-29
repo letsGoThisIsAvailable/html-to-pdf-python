@@ -9,4 +9,4 @@ step 4: run cd {folder directory} in terminal for Linux users (or if you are a p
 step 5: run pip install .<br/>
 
 # usage
-html-to-python({FULL path of input file}, {FULL path of output file (will create path if doesn't already exist')})
+html-to-python({path of input file}, {path of output file (will create path if doesn't already exists and will delete all folders in it)})
